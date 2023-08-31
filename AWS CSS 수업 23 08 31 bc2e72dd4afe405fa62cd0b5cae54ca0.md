@@ -150,6 +150,6 @@ text-decoration : 텍스트 꾸미기
 
 ## css 박스 모델
 
-![Untitled](AWS CSS 수업 23 08 31 bc2e72dd4afe405fa62cd0b5cae54ca0/Untitled.png)
+![Untitled](AWS_CSS_수업_23_08_31_bc2e72dd4afe405fa62cd0b5cae54ca0/Untitled.png)
 
-![Untitled](AWS CSS 수업 23 08 31 bc2e72dd4afe405fa62cd0b5cae54ca0/Untitled%201.png)
+![Untitled](AWS_CSS_수업_23_08_31_bc2e72dd4afe405fa62cd0b5cae54ca0/Untitled%201.png)
